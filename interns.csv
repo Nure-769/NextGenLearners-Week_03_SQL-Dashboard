@@ -1,0 +1,24 @@
+intern_id,applicant_id,domain,start_date,completion_status
+1,1,App Development,2026-06-01,Completed
+2,7,Data Science,2026-06-01,Dropped Out
+3,10,Graphic Design,2026-06-01,Completed
+4,11,Graphic Design,2026-06-01,Completed
+5,18,Digital Marketing,2026-06-01,Completed
+6,20,Digital Marketing,2026-06-01,Completed
+7,23,Graphic Design,2026-06-01,Completed
+8,24,Data Science,2026-06-01,Dropped Out
+9,25,Web Development,2026-06-01,Completed
+10,27,Data Science,2026-06-01,Completed
+11,33,Web Development,2026-06-01,Completed
+12,38,Graphic Design,2026-06-01,Dropped Out
+13,39,Data Science,2026-06-01,Dropped Out
+14,41,Data Science,2026-06-01,Completed
+15,44,,2026-06-01,Completed
+16,49,Graphic Design,2026-06-01,Completed
+17,51,App Development,2026-06-01,Completed
+18,52,,2026-06-01,Completed
+19,56,Digital Marketing,2026-06-01,Completed
+20,62,Graphic Design,2026-06-01,Completed
+21,65,Digital Marketing,2026-06-01,Completed
+22,66,,2026-06-01,Completed
+23,72,Digital Marketing,2026-06-01,Completed
